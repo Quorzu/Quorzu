@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Luis ✋
 
-<!--
-**Quorzu/Quorzu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📱 Mobile developer based in Colombia (UTC-5). I build native iOS and Android apps and care about writing code that's testable, maintainable, and actually works on real devices.
 
-Here are some ideas to get you started:
+📌 Currently looking for a full-time role on a product team. Open to remote work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Working on **Nufrient** — an offline-first meal tracking app with on-device ML. *(in development)*
+
+☕ In my free time, I tinker with side projects and read about mobile architecture patterns.
+
+---
+
+## Tech Stack
+
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-4285F4?style=for-the-badge&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Jetpack%20Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
+![MVVM](https://img.shields.io/badge/MVVM-000?style=for-the-badge)   
