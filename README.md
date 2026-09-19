@@ -4,8 +4,6 @@
 
 📌 Currently looking for a full-time role on a product team. Open to remote work.
 
-🌱 Working on **Nufrient** — an offline-first meal tracking app with on-device ML. *(in development)*
-
 ☕ In my free time, I tinker with side projects and read about mobile architecture patterns.
 
 ---
